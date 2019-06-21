@@ -65,6 +65,16 @@
       ]
     }
   ],
+  "research_expanded": {
+    "gt_sm": true
+  },
+  "codes": [
+    {
+      "title": "Radiative transfer model",
+      "papers": [
+        {
+          "abstract": "Link"
+        },
   "outreach": [
     {
 

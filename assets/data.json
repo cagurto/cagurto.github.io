@@ -55,9 +55,12 @@
       "papers": [
         {
           "always_expanded": true,
-          "abstract": "Here you can find links to useful raditiave transfer tools",
-          "name": "RADMC-3D",
-              "link": "http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/index.html"
+          "abstract": "Here you can find links to useful raditiave transfer tools"
+        },
+        {
+          "always_expanded": true,
+          "title": "RADMC-3D",
+          "link": "http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/index.html"
         }
       ]
     },

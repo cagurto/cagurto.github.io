@@ -108,7 +108,49 @@
             }
           ]
         }
-      ]
+      ],
+      "outreach": [
+    {
+
+      "papers": [
+        {
+          "always_expanded": true,
+          "images": [
+            "assets/images/logo.png"
+          ]
+        },
+        {
+          "always_expanded": true,
+          "abstract": "Star Tres was founded in 2013 by Javiera Rey, Karina Rojas and myself during our Bachelor (Universidad de Valparaíso). Star Tres is a digital initiative composed by a website, social media, and a YouTube channel. Our main goal is to be a reliable source of information with simple and engaging content for all astronomy-lover public. We also advocate gender equality in STEM and critical thinking in our society."
+        },
+        {
+          "always_expanded": true,
+          "abstract": "All of our content is in Spanish, to fill the lack of Latin American astronomy outreach initiatives on internet."
+        },
+        {
+          "authors": ["You can find us on:"],
+          "more_links": [
+            {
+              "name": "startres.net",
+              "link": "http://www.startres.net"
+            },
+            {
+              "name": "Youtube",
+              "link": "https://www.youtube.com/channel/UCUdqLeQDRHCxMieLIdMf03g"
+            },
+            {
+              "name": "Twitter",
+              "link": "https://twitter.com/Star_Tres"
+            },
+            {
+              "name": "Facebook",
+              "link": "https://www.facebook.com/startres3"
+            },
+            {
+              "name": "Instagram",
+              "link": "https://www.instagram.com/startrespics"
+            }
+            ]
     }
   ]
 }

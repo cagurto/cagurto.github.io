@@ -51,6 +51,15 @@
       ]
     },
     {
+      "title": "Code",
+      "papers": [
+        {
+          "always_expanded": true,
+          "abstract": "RADMC-3D"
+        }
+      ]
+    },
+    {
       "title": "Publications",
       "papers": [
         {

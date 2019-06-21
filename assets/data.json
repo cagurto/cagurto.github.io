@@ -55,12 +55,22 @@
       "papers": [
         {
           "always_expanded": true,
-          "abstract": "Here you can find links to useful raditiave transfer tools"
+          "abstract": "Here you can find links to useful raditiave transfer and interferometric data fitting tools"
+        },
+        {
+          "always_expanded": true,
+          "title": "SimpleDiskEnvFit",
+          "link": "https://gitlab.mpcdf.mpg.de/szucs/SimpleDiskEnvFit"
         },
         {
           "always_expanded": true,
           "title": "RADMC-3D",
           "link": "http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/index.html"
+        },
+        {
+          "always_expanded": true,
+          "title": "Galario",
+          "link": "https://mtazzari.github.io/galario/index.html"
         }
       ]
     },

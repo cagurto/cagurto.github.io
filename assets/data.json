@@ -18,8 +18,7 @@
       {"text": "85748 Garching, Germany"},
       {"text": "Room X5 1.4.50"},
       {"text": "cagurto@mpe.mpg.de", "type": "email"},
-      {"text": "+49089300003648", "type": "phone"},
-      {"item": "font-size": 30},
+      {"text": "+49089300003648", "type": "phone"}
     ],
       "fields": [
       "Star Formation", 

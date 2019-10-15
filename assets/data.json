@@ -21,7 +21,9 @@
       {"text": "+49089300003648", "type": "phone"}
     ],
       "fields": [
-      "Star Formation", "font-size":20,
+      "Star Formation", "globals":{ 
+        "font-size":20,
+        }
       "Protoplanetary Disks",
       "Radio Astronomy"
     ]

@@ -1,3 +1,6 @@
+html {
+  font-size: 10px;
+}
 {
   "color": "#570043",
   "google_analytics_ID": "UA-54037920-10",
@@ -12,7 +15,6 @@
   ],
   "home": {
     "description": "I am a PhD Candidate in the Center for Astrochemical Studies (CAS@MPE) at The International Max Planck Research School on Astrophysics at the Ludwig Maximilians University Munich, under the supervision of Paola Caselli. I got my B.Sc. in Physics (2012) and M.Sc. in Astrophysics (2015) degrees at Universidad de Valparaíso, Chile. My main research interests are the early stages of protoplanetary disks: from the dusty envelope characterization to how the dust grows through the disk.",
-    "basefontsize":"12",
     "contact": [
       {"text": "Max Planck Institute for Extraterrestrial Physics"},
       {"text": "Gießenbachstraße 1"},

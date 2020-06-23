@@ -111,8 +111,7 @@
         },
         {
           "always_expanded": true,
-          "abstract": "Videos",
-            <video src="https://www.youtube.com/watch?v=S3l7azDR_HA" width="320" height="200" controls preload></video>
+          "abstract": "Videos"
         },  
         {
           "authors": ["You can find us on:"],

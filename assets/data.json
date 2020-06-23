@@ -110,6 +110,11 @@
           "abstract": "All of our content is in Spanish, to fill the lack of Latin American astronomy outreach initiatives on internet."
         },
         {
+          "always_expanded": true,
+          "abstract": "Videos",
+            <video src="https://www.youtube.com/watch?v=S3l7azDR_HA" width="320" height="200" controls preload></video>
+        },  
+        {
           "authors": ["You can find us on:"],
           "more_links": [
             {

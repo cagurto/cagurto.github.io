@@ -94,12 +94,7 @@
   ],
   "SOCHIAS": [
     {
-      "title": "Background",
-      "papers": [
-        {
-          "abstract": "Disks and envelopes around protostars play a fundamental role in the process of planet formation, since they contain the ingredients which could be used later to form planets (Testi, et al. 2014, Protostars and Planets VI, 339). Thanks to detailed studies on protoplanetary disks such as: HL Tau (Partnership, et al. 2015, ApJL, 808, 1), it is now well established that Class II objects have already dust grains of millimeters sizes. However, it is not yet clear at which stage of the star and planet formation process dust grains start to efficiently coagulate and evolve from micrometer dust size particles to macroscopic dimensions."
-        }
-      ]
+      "title": "Background"
     }
   ],
   "outreach": [

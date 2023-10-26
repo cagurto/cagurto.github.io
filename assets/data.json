@@ -98,9 +98,6 @@
       "papers": [
         {
           "abstract": "Disks and envelopes around protostars play a fundamental role in the process of planet formation, since they contain the ingredients which could be used later to form planets (Testi, et al. 2014, Protostars and Planets VI, 339). Thanks to detailed studies on protoplanetary disks such as: HL Tau (Partnership, et al. 2015, ApJL, 808, 1), it is now well established that Class II objects have already dust grains of millimeters sizes. However, it is not yet clear at which stage of the star and planet formation process dust grains start to efficiently coagulate and evolve from micrometer dust size particles to macroscopic dimensions."
-        },
-        {
-          "abstract": "Dust continuum emission in the millimeter wavelengths allow us to test the presence of mm-sized dust grains. This is due to the fact that at these wavelengths the emission is mostly optically thin. The variation in the flux between different frequencies is a good proxy for the spectral index β which is related to the maximum grain size. Values of β ∼ 1 indicate that mm sized particles have been formed, while values around β ∼ 1.7 represent the sizes of ISM particle (Natta et al., 2007; Testi et al., 2014). Classical protoplanetary disks (around Class II objects) present clear signs of dust coagulation (Testi et al., 2014, and references therein). Toward pre-stellar cores the evidence is less clear: large (micrometer) grains have been found (Pagani et al., 2011), but this has been recently challenged (Jones et al., 2016)."
         }
       ]
     }

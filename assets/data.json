@@ -92,6 +92,9 @@
       ]
     }
   ],
+  "SOCHIAS_expanded": {
+    "gt_sm": true
+  },
   "SOCHIAS": [
     {
       "title": "Background"

@@ -26,7 +26,14 @@
       "Protoplanetary Disks",
       "Multi-wavelength analysis",
       "sub-mm/mm/radio interferometry"
-    ]
+    ],
+    "title": [
+      "SOCHIAS", 
+      "Protostars",
+      "Protoplanetary Disks",
+      "Multi-wavelength analysis",
+      "sub-mm/mm/radio interferometry"
+    ],  
   },
   "research_expanded": {
     "gt_sm": true

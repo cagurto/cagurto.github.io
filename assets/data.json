@@ -8,7 +8,8 @@
   "tabs": [
     "home",
     "research",
-    "outreach"
+    "outreach",
+    "SOCHIAS"
   ],
   "home": {
     "description": "I am an ESO-Comité Mixto postdoctoral researcher in the Astronomy Department at Universidad de Chile. My main research interests focus on the early stages of protoplanetary disks, investigating both the characterization of the dusty envelope and the processes of dust growth within the disk by using sub-mm and mm wavelengths. Currently, I'm working in the gas and dust characterization of the ALMA Large Program AGE-PRO (the ALMA survey of Gas Evolution in PROtoplanetary disks).",
@@ -26,13 +27,7 @@
       "Protoplanetary Disks",
       "Multi-wavelength analysis",
       "sub-mm/mm/radio interferometry"
-    ],
-    "SOCHIAS": {
-      "position": "Vice President of the Chilean Astronomical Society",
-      "contact": [
-        {"text": "sochias@astronomia.cl", "type": "email"}
-      ]
-    }
+    ]
   },
   "research_expanded": {
     "gt_sm": true
@@ -145,5 +140,14 @@
         }
       ]
     }
-  ]
+  ],
+  "SOCHIAS": {
+    "description": "I am currently serving as the Vice President of the Chilean Astronomical Society (SOCHIAS). In this role, I am committed to promoting the development and dissemination of astronomical research in Chile. If you have any questions or need further information, please feel free to contact me.",
+    "contact": [
+      {"text": "Carolina Agurto Gangas"},
+      {"text": "1st Vice President of SOCHIAS"},
+      {"link": "sochias.cl"},
+      {"text": "vicepresidnecia1.sochias@gmail.com", "type": "email"}
+    ]
+  }
 }

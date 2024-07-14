@@ -141,6 +141,9 @@
       ]
     }
   ],
+  "research_expanded": {
+    "gt_sm": true
+  },
   "SOCHIAS": {
     "description": "I am currently serving as the Vice President of the Chilean Astronomical Society (SOCHIAS). In this role, I am committed to promoting the development and dissemination of astronomical research in Chile. If you have any questions or need further information, please feel free to contact me.",
     "contact": [

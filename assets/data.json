@@ -1,0 +1,140 @@
+{
+  "color": "#77B0A1",
+  "google_analytics_ID": "UA-54037920-10",
+  "name": "Carolina Agurto Gangas",
+  "sub_title": "FONDECYT Postdoctoral fellow at Universidad de Chile",
+  "cv_link": "assets/cv-2019.pdf",
+  "header_background": "assets/images/eso1248b.jpg",
+  "tabs": [
+    "home",
+    "research",
+    "outreach"
+  ],
+  "home": {
+    "description": "I am a FONDECYT Postdoctoral fellow at the Astronomy Department at Universidad de Chile. I got my B.Sc. in Physics (2012) and M.Sc. in Astrophysics (2015) degrees at Universidad de Valparaíso, Chile. I finished my doctoral degree during 2020 at Ludwig-Maximilians-Universität München. My main research interests are the early stages of protoplanetary disks: from the dusty envelope characterization to how the dust grows through the disk.",
+    "contact": [
+      {"text": "Universidad de Chile"},
+      {"text": "Camino el Observatorio 1515"},
+      {"text": "Las Condes, Chile"},
+      {"text": "Star formation postdocs office"},
+      {"text": "cagurto@das.uchile.cl", "type": "email"},
+      {"text": "soon", "type": "phone"}
+    ],
+    "fields": [
+      "Star Formation", 
+      "Protostars",
+      "Protoplanetary Disks",
+      "Multi-wavelength analysis",
+      "sub-mm/mm/radio interferometry"  
+    ]
+  },
+  "research_expanded": {
+    "gt_sm": true
+  },
+  "research": [
+    {
+      "title": "Background",
+      "papers": [
+        {
+          "abstract": "Disks and envelopes around protostars play a fundamental role in the process of planet formation, since they contain the ingredients which could be used later to form planets (Testi, et al. 2014, Protostars and Planets VI, 339). Thanks to detailed studies on protoplanetary disks such as: HL Tau (Partnership, et al. 2015, ApJL, 808, 1), it is now well established that Class II objects have already dust grains of millimeters sizes. However, it is not yet clear at which stage of the star and planet formation process dust grains start to efficiently coagulate and evolve from micrometer dust size particles to macroscopic dimensions."
+        },
+        {
+          "abstract": "Dust continuum emission in the millimeter wavelengths allow us to test the presence of mm-sized dust grains. This is due to the fact that at these wavelengths the emission is mostly optically thin. The variation in the flux between different frequencies is a good proxy for the spectral index β which is related to the maximum grain size. Values of β ∼ 1 indicate that mm sized particles have been formed, while values around β ∼ 1.7 represent the sizes of ISM particle (Natta et al., 2007; Testi et al., 2014). Classical protoplanetary disks (around Class II objects) present clear signs of dust coagulation (Testi et al., 2014, and references therein). Toward pre-stellar cores the evidence is less clear: large (micrometer) grains have been found (Pagani et al., 2011), but this has been recently challenged (Jones et al., 2016)."
+        }
+      ]
+    },
+    {
+      "title": "Current work",
+      "papers": [
+        {
+          "always_expanded": true,
+          "abstract": "In my PhD project, we plan to explore grain growth by measuring β index in Class I protostars at different wavelenghts, which will allow us to bridge the gap between the well studied Class II objects and the earlier stage. We propose a multiwavelength study of Class I protoplanetary disks in different star forming regions, in order to constrain the grain sizes in disk as well in the inner and outer region of envelopes. With the capabilities of ALMA, SMA and NOEMA this will be the first unbiased study of grain growth in Class I protostars with the highest angular resolution and sensitivity ever seen."
+        }
+      ]
+    },
+    {
+      "title": "Code",
+      "papers": [
+        {
+          "always_expanded": true,
+          "abstract": "Here you can find links to useful raditiave transfer and interferometric data fitting tools"
+        },
+        {
+          "always_expanded": true,
+          "title": "SimpleDiskEnvFit (SiDE)",
+          "link": "https://github.com/l-sz/SiDE"
+        },
+        {
+          "always_expanded": true,
+          "title": "RADMC-3D",
+          "link": "http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/index.html"
+        },
+        {
+          "always_expanded": true,
+          "title": "Galario",
+          "link": "https://mtazzari.github.io/galario/index.html"
+        }
+      ]
+    },
+    {
+      "title": "Publications",
+      "papers": [
+        {
+          "always_expanded": true,
+          "abstract": "You can check out my full record of authored and co-authored publications on"
+        },
+        {
+          "always_expanded": true,
+          "title": "NASA ADS",
+          "link": "https://ui.adsabs.harvard.edu/#search/fq=database%3A%20astronomy&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&p_=0&q=author%3A(%22agurto-gangas%22)&sort=date%20desc%2C%20bibcode%20desc"
+        }
+      ]
+    }
+  ],
+  "outreach": [
+    {
+      "papers": [
+        {
+          "always_expanded": true,
+          "images": [
+            "assets/images/logo.png"
+          ]
+        },
+        {
+          "always_expanded": true,
+          "abstract": "Star Tres was founded in 2013 by Javiera Rey, Karina Rojas and myself during our Bachelor (Universidad de Valparaíso). Star Tres is a digital initiative composed by a website, social media, and a YouTube channel. Our main goal is to be a reliable source of information with simple and engaging content for all astronomy-lover public. We also advocate gender equality in STEM and critical thinking in our society."
+        },
+        {
+          "always_expanded": true,
+          "abstract": "All of our content is in Spanish, to fill the lack of Latin American astronomy outreach initiatives on internet."
+        },
+        {
+          "authors": ["You can find us on:"],
+          "more_links": [
+            {
+              "name": "startres.net",
+              "link": "http://www.startres.net"
+            },
+            {
+              "name": "Youtube",
+              "link": "https://www.youtube.com/channel/UCUdqLeQDRHCxMieLIdMf03g"
+            },
+            {
+              "name": "Twitter",
+              "link": "https://twitter.com/Star_Tres"
+            },
+            {
+              "name": "Facebook",
+              "link": "https://www.facebook.com/startres3"
+            },
+            {
+              "name": "Instagram",
+              "link": "https://www.instagram.com/startrespics"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

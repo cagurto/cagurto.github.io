@@ -11,7 +11,7 @@
     "outreach"
   ],
   "home": {
-    "description": "I am an ESO-Comité Mixto postdoctoral researcher in the Astronomy Department at Universidad de Chile. I obtained my B.Sc. in Physics (2012) and M.Sc. in Astrophysics (2015) degrees from Universidad de Valparaíso, Chile. I completed my doctoral degree in 2020 at Ludwig-Maximilians-Universität München. My main research interests focus on the early stages of protoplanetary disks, investigating both the characterization of the dusty envelope and the processes of dust growth within the disk by using sub-mm and mm wavelengths. Currently, I'm working in the gas and dust caracterization of the ALMA Large Programm AGE-PRO (the ALMA survey of Gas Evolution in PROtoplanetary disks).",
+    "description": "I am an ESO-Comité Mixto postdoctoral researcher in the Astronomy Department at Universidad de Chile. I obtained my B.Sc. in Physics (2012) and M.Sc. in Astrophysics (2015) degrees from Universidad de Valparaíso, Chile. I completed my doctoral degree in 2020 at Ludwig-Maximilians-Universität München. My main research interests focus on the early stages of protoplanetary disks, investigating both the characterization of the dusty envelope and the processes of dust growth within the disk by using sub-mm and mm wavelengths. Currently, I'm working in the gas and dust characterization of the ALMA Large Program AGE-PRO (the ALMA survey of Gas Evolution in PROtoplanetary disks).",
     "contact": [
       {"text": "Universidad de Chile"},
       {"text": "Camino el Observatorio 1515"},
@@ -25,7 +25,7 @@
       "Protostars",
       "Protoplanetary Disks",
       "Multi-wavelength analysis",
-      "sub-mm/mm/radio interferometry"  
+      "sub-mm/mm/radio interferometry"
     ]
   },
   "research_expanded": {
@@ -36,10 +36,10 @@
       "title": "Background",
       "papers": [
         {
-          "abstract": "Disks and envelopes around protostars play a fundamental role in the process of planet formation, since they contain the ingredients which could be used later to form planets (Testi, et al. 2014, Protostars and Planets VI, 339). Thanks to detailed studies on protoplanetary disks such as: HL Tau (Partnership, et al. 2015, ApJL, 808, 1), it is now well established that Class II objects have already dust grains of millimeters sizes. However, it is not yet clear at which stage of the star and planet formation process dust grains start to efficiently coagulate and evolve from micrometer dust size particles to macroscopic dimensions."
+          "abstract": "Disks and envelopes around protostars play a fundamental role in the process of planet formation, since they contain the ingredients which could be used later to form planets (Testi, et al. 2014, Protostars and Planets VI, 339). Thanks to detailed studies on protoplanetary disks such as: HL Tau (Partnership, et al. 2015, ApJL, 808, 1), it is now well established that Class II objects have already dust grains of millimeter sizes. However, it is not yet clear at which stage of the star and planet formation process dust grains start to efficiently coagulate and evolve from micrometer dust size particles to macroscopic dimensions."
         },
         {
-          "abstract": "Dust continuum emission in the millimeter wavelengths allow us to test the presence of mm-sized dust grains. This is due to the fact that at these wavelengths the emission is mostly optically thin. The variation in the flux between different frequencies is a good proxy for the spectral index β which is related to the maximum grain size. Values of β ∼ 1 indicate that mm sized particles have been formed, while values around β ∼ 1.7 represent the sizes of ISM particle (Natta et al., 2007; Testi et al., 2014). Classical protoplanetary disks (around Class II objects) present clear signs of dust coagulation (Testi et al., 2014, and references therein). Toward pre-stellar cores the evidence is less clear: large (micrometer) grains have been found (Pagani et al., 2011), but this has been recently challenged (Jones et al., 2016)."
+          "abstract": "Dust continuum emission in the millimeter wavelengths allows us to test the presence of mm-sized dust grains. This is due to the fact that at these wavelengths the emission is mostly optically thin. The variation in the flux between different frequencies is a good proxy for the spectral index β which is related to the maximum grain size. Values of β ∼ 1 indicate that mm sized particles have been formed, while values around β ∼ 1.7 represent the sizes of ISM particle (Natta et al., 2007; Testi et al., 2014). Classical protoplanetary disks (around Class II objects) present clear signs of dust coagulation (Testi et al., 2014, and references therein). Toward pre-stellar cores the evidence is less clear: large (micrometer) grains have been found (Pagani et al., 2011), but this has been recently challenged (Jones et al., 2016)."
         }
       ]
     },
@@ -48,7 +48,7 @@
       "papers": [
         {
           "always_expanded": true,
-          "abstract": "In my PhD project, we plan to explore grain growth by measuring β index in Class I protostars at different wavelenghts, which will allow us to bridge the gap between the well studied Class II objects and the earlier stage. We propose a multiwavelength study of Class I protoplanetary disks in different star forming regions, in order to constrain the grain sizes in disk as well in the inner and outer region of envelopes. With the capabilities of ALMA, SMA and NOEMA this will be the first unbiased study of grain growth in Class I protostars with the highest angular resolution and sensitivity ever seen."
+          "abstract": "In my PhD project, we plan to explore grain growth by measuring β index in Class I protostars at different wavelengths, which will allow us to bridge the gap between the well studied Class II objects and the earlier stage. We propose a multiwavelength study of Class I protoplanetary disks in different star forming regions, in order to constrain the grain sizes in disk as well in the inner and outer region of envelopes. With the capabilities of ALMA, SMA and NOEMA this will be the first unbiased study of grain growth in Class I protostars with the highest angular resolution and sensitivity ever seen."
         }
       ]
     },
@@ -57,7 +57,7 @@
       "papers": [
         {
           "always_expanded": true,
-          "abstract": "Here you can find links to useful raditiave transfer and interferometric data fitting tools"
+          "abstract": "Here you can find links to useful radiative transfer and interferometric data fitting tools"
         },
         {
           "always_expanded": true,
@@ -137,4 +137,3 @@
     }
   ]
 }
-

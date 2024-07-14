@@ -149,7 +149,7 @@
     "contact": [
       {"text": "Carolina Agurto Gangas"},
       {"text": "1st Vice President of SOCHIAS"},
-      {"link": "sochias.cl"},
+      {"text": "sochias.cl", "type":"link"},
       {"text": "vicepresidnecia1.sochias@gmail.com", "type": "email"}
     ]
   }

@@ -8,7 +8,8 @@
   "tabs": [
     "home",
     "research",
-    "outreach"
+    "outreach",
+    "SOCHIAS",
   ],
   "home": {
     "description": "I am an ESO-Comité Mixto postdoctoral researcher in the Astronomy Department at Universidad de Chile. My main research interests focus on the early stages of protoplanetary disks, investigating both the characterization of the dusty envelope and the processes of dust growth within the disk by using sub-mm and mm wavelengths. Currently, I'm working in the gas and dust characterization of the ALMA Large Program AGE-PRO (the ALMA survey of Gas Evolution in PROtoplanetary disks).",
@@ -42,7 +43,17 @@
         },
         {
           "always_expanded": true,
-          "abstract": "Dynamical masses and disk envelope transition of the AGE-PRO Ophiuchus sample"
+          "title": "Dynamical masses and disk envelope transition of the AGE-PRO Ophiuchus sample",
+          "link": "https://zenodo.org/records/10971152"
+        },
+        {
+          "always_expanded": true,
+          "title": "Upper Scorpius region with AGE-PRO",
+          "link": "https://zenodo.org/records/10971152"
+        },
+        {
+          "always_expanded": true,
+          "title": "Dynamical masses in the Upper Sco AGE-PRO sample"
         }
       ]
     },

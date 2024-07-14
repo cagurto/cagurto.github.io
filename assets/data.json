@@ -27,13 +27,17 @@
       "Multi-wavelength analysis",
       "sub-mm/mm/radio interferometry"
     ],
-    "fields": [
-      "SOCHIAS", 
-      "Protostars",
-      "Protoplanetary Disks",
-      "Multi-wavelength analysis",
-      "sub-mm/mm/radio interferometry"
-    ],  
+    "SOCHIAS": [
+      {
+        "title": "vicepresidencia1.sochias@gmail.com",
+        "items": [
+          "Dust analysis of the cosmic pretzel by using Band 3, 6, and 7 ALMA datasets",
+          "Dynamical masses and disk envelope transition of the AGE-PRO Ophiuchus sample",
+          "Upper Scorpius region with AGE-PRO",
+          "Dynamical masses in the Upper Sco AGE-PRO sample"
+        ]
+      }
+    ]
   },
   "research_expanded": {
     "gt_sm": true

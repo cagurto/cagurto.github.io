@@ -32,15 +32,7 @@
       {
         "text": "soon",
         "type": "phone"
-      },
-      {
-      "title": "SOCHIAS",
-      "papers": [
-        {
-          "always_expanded": true,
-          "title": "Dust analysis of the cosmic pretzel by using Band 3, 6 and 7 ALMA datasets",
-          "link": "https://zenodo.org/records/10962873"
-        }
+      }
     ],
     "fields": [
       "Star Formation",
@@ -135,7 +127,9 @@
           "abstract": "All of our content is in Spanish, to fill the lack of Latin American astronomy outreach initiatives on the internet."
         },
         {
-          "authors": ["You can find us on:"],
+          "authors": [
+            "You can find us on:"
+          ],
           "more_links": [
             {
               "name": "startres.net",

@@ -32,7 +32,15 @@
       {
         "text": "soon",
         "type": "phone"
-      }
+      },
+      {
+      "title": "SOCHIAS",
+      "papers": [
+        {
+          "always_expanded": true,
+          "title": "Dust analysis of the cosmic pretzel by using Band 3, 6 and 7 ALMA datasets",
+          "link": "https://zenodo.org/records/10962873"
+        }
     ],
     "fields": [
       "Star Formation",

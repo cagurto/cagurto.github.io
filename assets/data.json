@@ -152,7 +152,21 @@
               "link": "https://www.instagram.com/startrespics"
             }
           ]
+        },
+        {
+      "title": "Publications",
+      "papers": [
+        {
+          "always_expanded": true,
+          "abstract": "You can check out my full record of authored and co-authored publications on"
+        },
+        {
+          "always_expanded": true,
+          "title": "NASA ADS",
+          "link": "https://ui.adsabs.harvard.edu/#search/fq=database%3A%20astronomy&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&p_=0&q=author%3A(%22agurto-gangas%22)&sort=date%20desc%2C%20bibcode%20desc"
         }
+      ]
+    }
       ]
     }
   ]

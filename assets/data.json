@@ -85,7 +85,7 @@
         {
           "always_expanded": true,
           "title": "RADMC-3D",
-          "link": "http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3d/index.html"
+          "link": "http://www.ita.uni-heidelberg.de/~dullemond/software/radmc-3-d/index.html"
         },
         {
           "always_expanded": true,
@@ -111,62 +111,41 @@
   ],
   "outreach": [
     {
-      "papers": [
-        {
-          "always_expanded": true,
-          "images": [
-            "assets/images/logo.png"
-          ]
-        },
-        {
-          "always_expanded": true,
-          "abstract": "Star Tres was founded in 2013 by Javiera Rey, Karina Rojas and myself during our Bachelor (Universidad de Valparaíso).\n\n- Star Tres is a digital initiative composed by a website, social media, and a YouTube channel.\n- Our main goal is to be a reliable source of information with simple and engaging content for all astronomy-lover public.\n- We also advocate gender equality in STEM and critical thinking in our society."
-        },
-        {
-          "always_expanded": true,
-          "abstract": "All of our content is in Spanish, to fill the lack of Latin American astronomy outreach initiatives on the internet."
-        },
-        {
-          "authors": [
-            "You can find us on:"
-          ],
-          "more_links": [
-            {
-              "name": "startres.net",
-              "link": "http://www.startres.net"
-            },
-            {
-              "name": "Youtube",
-              "link": "https://www.youtube.com/channel/UCUdqLeQDRHCxMieLIdMf03g"
-            },
-            {
-              "name": "Twitter",
-              "link": "https://twitter.com/Star_Tres"
-            },
-            {
-              "name": "Facebook",
-              "link": "https://www.facebook.com/startres3"
-            },
-            {
-              "name": "Instagram",
-              "link": "https://www.instagram.com/startrespics"
-            }
-          ]
-        },
-        {
-      "title": "Publications",
-      "papers": [
-        {
-          "always_expanded": true,
-          "abstract": "You can check out my full record of authored and co-authored publications on"
-        },
-        {
-          "always_expanded": true,
-          "title": "NASA ADS",
-          "link": "https://ui.adsabs.harvard.edu/#search/fq=database%3A%20astronomy&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&p_=0&q=author%3A(%22agurto-gangas%22)&sort=date%20desc%2C%20bibcode%20desc"
-        }
+      "images": [
+        "assets/images/logo.png"
       ]
-    }
+    },
+    {
+      "abstract": "Star Tres was founded in 2013 by Javiera Rey, Karina Rojas and myself during our Bachelor (Universidad de Valparaíso).\n\n- Star Tres is a digital initiative composed by a website, social media, and a YouTube channel.\n- Our main goal is to be a reliable source of information with simple and engaging content for all astronomy-lover public.\n- We also advocate gender equality in STEM and critical thinking in our society."
+    },
+    {
+      "abstract": "All of our content is in Spanish, to fill the lack of Latin American astronomy outreach initiatives on the internet."
+    },
+    {
+      "authors": [
+        "You can find us on:"
+      ],
+      "more_links": [
+        {
+          "name": "startres.net",
+          "link": "http://www.startres.net"
+        },
+        {
+          "name": "Youtube",
+          "link": "https://www.youtube.com/channel/UCUdqLeQDRHCxMieLIdMf03g"
+        },
+        {
+          "name": "Twitter",
+          "link": "https://twitter.com/Star_Tres"
+        },
+        {
+          "name": "Facebook",
+          "link": "https://www.facebook.com/startres3"
+        },
+        {
+          "name": "Instagram",
+          "link": "https://www.instagram.com/startrespics"
+        }
       ]
     }
   ]

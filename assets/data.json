@@ -3,7 +3,7 @@
   "google_analytics_ID": "UA-54037920-10",
   "name": "Carolina Agurto Gangas",
   "sub_title": "FONDECYT Postdoctoral fellow at Universidad de Chile",
-  "cv_link": "assets/cv-2019.pdf",
+  "cv_link": "assets/Curriculum_Vitae_WEB.pdf",
   "header_background": "assets/images/eso1248b.jpg",
   "tabs": [
     "home",
@@ -11,7 +11,7 @@
     "outreach"
   ],
   "home": {
-    "description": "I am a FONDECYT Postdoctoral fellow at the Astronomy Department at Universidad de Chile. I got my B.Sc. in Physics (2012) and M.Sc. in Astrophysics (2015) degrees at Universidad de Valparaíso, Chile. I finished my doctoral degree during 2020 at Ludwig-Maximilians-Universität München. My main research interests are the early stages of protoplanetary disks: from the dusty envelope characterization to how the dust grows through the disk.",
+    "description": "I'm an Astronomer with a Dr. rer. nat. from the University of Munich (LMU), specializing in protoplanetary disks, dust properties, and radiative transfer models. I'm excited to announce my new role as Assistant Professor, continuing my research into how planets form within these dynamic environments.",
     "contact": [
       { "text": "Universidad de Chile" },
       { "text": "Camino el Observatorio 1515" },

@@ -13,11 +13,11 @@
   "home": {
     "description": "I'm an Astronomer with a Dr. rer. nat. from the University of Munich (LMU), specializing in protoplanetary disks, dust properties, and radiative transfer models. I'm excited to announce my new role as Assistant Professor, continuing my research into how planets form within these dynamic environments.",
     "contact": [
-      { "text": "Universidad de Chile" },
-      { "text": "Camino el Observatorio 1515" },
-      { "text": "Las Condes, Chile" },
-      { "text": "Star formation postdocs office" },
-      { "text": "cagurto@das.uchile.cl", "type": "email" },
+      { "text": "Universidad Técnica Federico Santa María (UTFSM)" },
+      { "text": "Av. Vicuña Mackenna 3919, 8940897" },
+      { "text": "San Joaquín, Región Metropolitana, Chile" },
+      { "text": "K building, Office K639" },
+      { "text": "carolina.agurto@usm.cl", "type": "email" },
       { "text": "soon", "type": "phone" }
     ],
     "fields": [

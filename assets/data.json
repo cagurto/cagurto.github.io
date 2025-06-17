@@ -13,19 +13,19 @@
   "home": {
     "description": "I am a FONDECYT Postdoctoral fellow at the Astronomy Department at Universidad de Chile. I got my B.Sc. in Physics (2012) and M.Sc. in Astrophysics (2015) degrees at Universidad de Valparaíso, Chile. I finished my doctoral degree during 2020 at Ludwig-Maximilians-Universität München. My main research interests are the early stages of protoplanetary disks: from the dusty envelope characterization to how the dust grows through the disk.",
     "contact": [
-      {"text": "Universidad de Chile"},
-      {"text": "Camino el Observatorio 1515"},
-      {"text": "Las Condes, Chile"},
-      {"text": "Star formation postdocs office"},
-      {"text": "cagurto@das.uchile.cl", "type": "email"},
-      {"text": "soon", "type": "phone"}
+      { "text": "Universidad de Chile" },
+      { "text": "Camino el Observatorio 1515" },
+      { "text": "Las Condes, Chile" },
+      { "text": "Star formation postdocs office" },
+      { "text": "cagurto@das.uchile.cl", "type": "email" },
+      { "text": "soon", "type": "phone" }
     ],
-      "fields": [
-      "Star Formation", 
+    "fields": [
+      "Star Formation",
       "Protostars",
       "Protoplanetary Disks",
       "Multi-wavelength analysis",
-      "sub-mm/mm/radio interferometry"  
+      "sub-mm/mm/radio interferometry"
     ]
   },
   "research_expanded": {
@@ -91,16 +91,8 @@
       ]
     }
   ],
-    {
-      "title": "Background",
-      "papers": [
-        {
-          "abstract": "Disks and envelopes around protostars play a fundamental role in the process of planet formation, since they contain the ingredients which could be used later to form planets (Testi, et al. 2014, Protostars and Planets VI, 339). Thanks to detailed studies on protoplanetary disks such as: HL Tau (Partnership, et al. 2015, ApJL, 808, 1), it is now well established that Class II objects have already dust grains of millimeters sizes. However, it is not yet clear at which stage of the star and planet formation process dust grains start to efficiently coagulate and evolve from micrometer dust size particles to macroscopic dimensions."
-        },   
-      ],
   "outreach": [
     {
-
       "papers": [
         {
           "always_expanded": true,
@@ -115,7 +107,7 @@
         {
           "always_expanded": true,
           "abstract": "All of our content is in Spanish, to fill the lack of Latin American astronomy outreach initiatives on internet."
-        }, 
+        },
         {
           "authors": ["You can find us on:"],
           "more_links": [
@@ -145,6 +137,3 @@
     }
   ]
 }
-
-
-
